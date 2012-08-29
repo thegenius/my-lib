@@ -1,0 +1,3 @@
+  This arithmatic library is created for arithmatic operations on high precesion numbers.
+  As far as we can see, we often need calculations in our program, but even the most simple operation a+b could be wrong. You must assume that the number is not big enough to make the program crash. But unfortunatly we do not know what's the time when our assume does not work again.
+  And this problem could not and shall not be copied by the hardware. Because the hardware is fixed, and the need of precesion is floating. So software take over this task, and it should be the base ground for program development.

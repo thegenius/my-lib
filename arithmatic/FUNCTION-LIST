@@ -1,0 +1,6 @@
+
+/*return the greatest common dividor of 2 integers*/
+int gcd( int , int )
+
+/*return the least common multiplier of 2 integers*/
+int lcm( int , int )
